@@ -73,3 +73,6 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+## Firebase Google auth
+https://firebase.google.com/docs/auth/web/google-signin?hl=ja#web-modular-api_4
